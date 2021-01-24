@@ -1,0 +1,25 @@
+h2 {
+    font-size: 12px; line-height: 19px; margin: 0px;
+}
+
+h1{
+    text-align: center;
+}
+
+.navigation{
+    padding-top: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:larger;
+    text-decoration: none;
+}
+.seitenzahl{
+    text-align: center;
+    padding-top: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
